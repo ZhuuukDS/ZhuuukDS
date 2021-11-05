@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhuuukDS
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning pandas and matplotlib
+- 🌱 I’m currently learning *pandas* and *matplotlib*
 - 💞️ I’m looking to collaborate on data mining, data cleaning and data analysis
 - 📫 Reach me via azhukov.private@gmail.com, FB, Twitter
 

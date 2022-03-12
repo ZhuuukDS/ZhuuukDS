@@ -1,4 +1,5 @@
-👋 Hi everyone! Welcome to Alex Zhukov's Gihub Profile
+# 👋 Hi Everyone! Welcome to Alex Zhukov's GitHub Profile
+
 
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently pursuing master's degree in data science at University of Colorado Boulder

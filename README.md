@@ -1,4 +1,5 @@
-#- 👋 Hi, I’m @ZhuuukDS
+👋 Hi everyone! Welcome to Alex Zhukov's Gihub Profile
+
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently pursuing master's degree in data science at University of Colorado Boulder
 - 💞️ I’m looking to collaborate on data mining, data cleaning and data analysis

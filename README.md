@@ -54,11 +54,10 @@ src="https://img.shields.io/twitter/follow/zhuuukds?logo=twitter&style=for-the-b
 
 <div width="100%" align="center"><a href="https://github.com/zhuuukds/MOOC_students_prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuuukds&repo=MOOC_students_prediction&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/zhuuukds/Tennis_Girls_Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuuukds&repo=Tennis_Girls_Project&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/zhuuukds/chess_analysis_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuuukds&repo=chess_analysis_project&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/zhuuukds/related_products_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuuukds&repo=related_products_project&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br><br>
+<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 ### Support Me
 

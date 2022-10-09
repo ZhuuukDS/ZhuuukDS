@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Data Analyst
 -----------------------------
 
-Junior Data Scientist | Data Analyst 👨🏻‍💻 | Grad student at the University of Colorado Boulder 👨🏻‍🎓 | Sharing thoughts about my Data Science journey 🌞
+Junior Data Scientist | Data Analyst 👨🏻‍💻 | Grad student at the University of Colorado Boulder 👨🏻‍🎓 | Keep tracking my Data Science journey 🌞
 
 * 🌍  I'm based in Kiryat Motzkin, Israel
 * 🖥️  See my portfolio at [https://zhuuukds.github.io/](http://zhuuukds.github.io/)
 * ✉️  You can contact me at [zhuuukds@gmail.com](mailto:zhuuukds@gmail.com)
 * 🌱 I’m currently pursuing master's degree in data science at University of Colorado Boulder
 * 🧠  I'm learning Machine Learning, Scikit-learn, Pandas, PySpark
-* 🤝  I'm open to collaborating on Data Science projects
+* 🤝  I'm open to opportunities in Data Science projects
 * ⚡  A learner by birth and Data Scientist by choice
 
 <a href="https://www.twitter.com/zhuuukds" target="_blank" rel="noreferrer"><img

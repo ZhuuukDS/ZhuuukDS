@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Data Analyst
 -----------------------------
 
-Junior Data Scientist | Data Analyst 👨🏻‍💻 | Grad student at the University of Colorado Boulder 👨🏻‍🎓 | Keep tracking my Data Science journey 🌞
+Junior Data Scientist | Experienced Data Analyst 👨🏻‍💻 | Grad student at the University of Colorado Boulder 👨🏻‍🎓 | Keep tracking my Data Science journey 🌞
 
 * 🌍  I'm based in Kiryat Motzkin, Israel
 * 🖥️  See my portfolio at [https://zhuuukds.github.io/](http://zhuuukds.github.io/)

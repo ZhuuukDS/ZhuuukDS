@@ -7,7 +7,7 @@ AI Enthusiast | Data Scientist | Data Analyst
 AI Engineer | Data Scientist | Data Analyst 👨🏻‍💻 | Graduate at the University of Colorado Boulder 👨🏻‍🎓 | Keep tracking my Data Science journey 🌞
 
 * 🌍  Digital Nomad
-* 🖥️  See my portfolio at [https://zhuuukds.github.io/](http://zhuuukds.github.io/)
+<!-- * 🖥️  See my portfolio at [https://zhuuukds.github.io/](http://zhuuukds.github.io/) -->
 * ✉️  You can contact me at [zhuuukds@gmail.com](mailto:zhuuukds@gmail.com)
 * 🧠  I'm learning Machine Learning, Scikit-learn, Pandas, PySpark
 * 🤝  I'm open to opportunities in Data Science projects

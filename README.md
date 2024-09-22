@@ -46,9 +46,9 @@ Currently, I focus on improving my data analysis skills. I have advanced skills 
 </p>
 
 
-### Support Me
+<!-- ### Support Me
 
-<a href="https://www.buymeacoffee.com/zhuuukds"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- <a href="https://www.buymeacoffee.com/zhuuukds"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 

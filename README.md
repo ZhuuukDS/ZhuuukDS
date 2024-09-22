@@ -1,22 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexey Zhukov
 =====================================================================================================================================
 
-Data Scientist | Data Analyst
+AI Enthusiast | Data Scientist | Data Analyst
 -----------------------------
 
-Junior Data Scientist | Experienced Data Analyst 👨🏻‍💻 | Grad student at the University of Colorado Boulder 👨🏻‍🎓 | Keep tracking my Data Science journey 🌞
+AI Engineer | Data Scientist | Data Analyst 👨🏻‍💻 | Graduate at the University of Colorado Boulder 👨🏻‍🎓 | Keep tracking my Data Science journey 🌞
 
-* 🌍  I'm based in Kiryat Motzkin, Israel
+* 🌍  Digital Nomad
 * 🖥️  See my portfolio at [https://zhuuukds.github.io/](http://zhuuukds.github.io/)
 * ✉️  You can contact me at [zhuuukds@gmail.com](mailto:zhuuukds@gmail.com)
-* 🌱 I’m currently pursuing master's degree in data science at University of Colorado Boulder
 * 🧠  I'm learning Machine Learning, Scikit-learn, Pandas, PySpark
 * 🤝  I'm open to opportunities in Data Science projects
 * ⚡  A learner by birth and Data Scientist by choice
-
-<a href="https://www.twitter.com/zhuuukds" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/zhuuukds?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Background
 
